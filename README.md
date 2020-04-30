@@ -1,4 +1,4 @@
-# Deploy static website on AWS – by YAN QIN
+# Deploy static website on AWS 
 1.	Create S3 hacket.
 
 ![img-1](Images/Capture1.JPG) 
